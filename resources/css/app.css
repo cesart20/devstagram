@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.photo-perfil {
+    @apply rounded-full h-52 w-52 object-cover
+}
